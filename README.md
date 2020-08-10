@@ -1,5 +1,5 @@
 # DIP-final-work
-①dip-masterMac ②dip-masterWindows **Ps:notes written in dip-masterWindows
+①dip-masterMac ②dip-masterWindows **Ps:notes written in dip-masterWindows**
 
 1.Environment Configuration
 
